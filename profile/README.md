@@ -33,7 +33,23 @@
   *Public* - HTML gathering settings test. Updated Jan 9, 2025.
 - **[current-test-URL_Gather_Step](https://github.com/iconluxurygroup/current-test-URL_Gather_Step)**  
   *Public, Python* - URL gathering test step. Updated Jan 8, 2025.
-
+- **[legacy-icon-product-api](https://github.com/iconluxurygroup/legacy-icon-product-api)**  
+  *Public, Python* - Legacy product API. Updated May 7, 2024.
+- **[legacy-dup-realtime-msrp_2](https://github.com/iconluxurygroup/legacy-dup-realtime-msrp_2)**  
+  *Public, Python* - Legacy real-time MSRP tool. Updated Jan 31, 2024.
+- **[codespace-router-proxy-google-cloud](https://github.com/iconluxurygroup/codespace-router-proxy-google-cloud)**  
+  *Public, Python* - Proxy/routing solution for Google Cloud in a codespace. Updated 7 hours ago.
+- **[codespace-serverless-no-js-digitalocean](https://github.com/iconluxurygroup/codespace-serverless-no-js-digitalocean)**  
+  *Private, Python* - Serverless setup on DigitalOcean, no JavaScript. Updated last month.
+- **[demo-repository](https://github.com/iconluxurygroup/demo-repository)**  
+  *Private, HTML* - A showcase of GitHub’s best features. Updated 3 days ago.
+- **[service-distro-image](https://github.com/iconluxurygroup/service-distro-image)**  
+  *Public, Python* - Image distribution service. Updated 8 hours ago.
+- **[settings-static-data](https://github.com/iconluxurygroup/settings-static-data)**  
+  *Public* - Static data for frontend development. Updated last week.
+- **[site-iconluxury.group](https://github.com/iconluxurygroup/site-iconluxury.group)**  
+  *Public, TypeScript, MIT License* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
+    
 ## Merge
 - **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
   *Public* - MSRP loading utility, enhancing our data processing capabilities.
