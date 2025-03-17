@@ -35,7 +35,7 @@
 - **[current-broken-selenium-scroll-isabelmarant](https://github.com/iconluxurygroup/current-broken-selenium-scroll-isabelmarant)**  
   *Public, Python* - Selenium-based scrolling tool for Isabel Marant. Updated Jul 9, 2024.
 
-## Luxury Brand Parsers
+## Brand Archive Parsers
 - **[sam-site-parsing](https://github.com/nikwif/sam-site-parsing)** *(by nikwif)*  
   *Public* - Site parsing tool for luxury brands. Contributes to our parsing ecosystem.
 - **[current-jimmy_choo_parser](https://github.com/iconluxurygroup/current-jimmy_choo_parser)**  
@@ -47,7 +47,7 @@
 - **[current-site-parsing](https://github.com/iconluxurygroup/current-site-parsing)**  
   *Public, HTML* - General site parsing tool. Updated Aug 20, 2024.
 
-## Data Utilities
+## Brand Archive Utilities
 - **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
   *Public* - MSRP loading utility, enhancing our data processing capabilities.
 - **[current-datawarehouse-form](https://github.com/iconluxurygroup/current-datawarehouse-form)**  
@@ -61,7 +61,7 @@
 - **[settings-images-filter](https://github.com/iconluxurygroup/settings-images-filter)**  
   *Public* - Image filtering settings. Updated May 1, 2024.
 
-## Testing & Archives
+## Testing
 - **[current-test-brand-archive](https://github.com/iconluxurygroup/current-test-brand-archive)**  
   *Public, HTML* - Brand data archive test. Updated Jan 8, 2025.
 - **[current-test-FarfetchParser](https://github.com/iconluxurygroup/current-test-FarfetchParser)**  
@@ -85,7 +85,7 @@
 - **[legacy-icon-product-api](https://github.com/iconluxurygroup/legacy-icon-product-api)**  
   *Public, Python* - Legacy product API. Updated May 7, 2024.
 
-## Luxuryverse Ecosystem
+## Luxuryverse 
 - **[luxuryverse](https://github.com/iconluxurygroup/luxuryverse)**  
   *Private, TypeScript* - Core Luxuryverse project. Updated Aug 2, 2024.
 - **[luxuryverse-app](https://github.com/iconluxurygroup/luxuryverse-app)**  
