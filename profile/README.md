@@ -1,4 +1,3 @@
-## Hi 👋
 ## Active Projects
 - **[site-iconluxury.group](https://github.com/iconluxurygroup/site-iconluxury.group)**  
   *Public, TypeScript, MIT License* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
