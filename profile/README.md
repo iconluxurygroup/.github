@@ -48,7 +48,7 @@
 - **[settings-static-data](https://github.com/iconluxurygroup/settings-static-data)**  
   *Public* - Static data for frontend development. Updated last week.
 - **[site-iconluxury.group](https://github.com/iconluxurygroup/site-iconluxury.group)**  
-  *Public, TypeScript, MIT License* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
+  *Public, TypeScript* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
     
 ## Merge
 - **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
