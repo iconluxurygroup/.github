@@ -19,7 +19,11 @@
   *Public, TypeScript, MIT License* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
 - **[template-BrandParsers](https://github.com/iconluxurygroup/template-BrandParsers)**  
   *Public, Python* - Template for brand parsing projects. Updated 18 minutes ago.
-
+## Merge
+- **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
+  *Public* - MSRP loading utility, enhancing our data processing capabilities.
+- **[sam-site-parsing](https://github.com/nikwif/sam-site-parsing)** *(by nikwif)*  
+  *Public* - Site parsing tool for luxury brands. Contributes to our parsing ecosystem.
 ## Retail Scraping Tools
 - **[current-broken-RetailScraper_GetHTMLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetHTMLs)**  
   *Public, HTML* - HTML scraping tool (in progress). Updated Jan 17, 2025.
@@ -43,16 +47,12 @@
   *Private, Python* - MSRP puller for Off-White. Updated Oct 31, 2024.
 - **[current-site-parsing](https://github.com/iconluxurygroup/current-site-parsing)**  
   *Public, HTML* - General site parsing tool. Updated Aug 20, 2024.
-- **[sam-site-parsing](https://github.com/nikwif/sam-site-parsing)** *(by nikwif)*  
-  *Public* - Site parsing tool for luxury brands. Contributes to our parsing ecosystem.
 
 ## Brand Archive Utilities
 - **[current-datawarehouse-form](https://github.com/iconluxurygroup/current-datawarehouse-form)**  
   *Public, Python* - Data warehouse form tool. Updated Aug 22, 2024.
 - **[current-msrp-load-utility](https://github.com/iconluxurygroup/current-msrp-load-utility)**  
   *Public, Jupyter Notebook* - MSRP loading utility. Updated Jul 16, 2024.
-- **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
-  *Public* - MSRP loading utility, enhancing our data processing capabilities.
 
 ## Settings & Configurations
 - **[settings-image-ip-mask-serverless](https://github.com/iconluxurygroup/settings-image-ip-mask-serverless)**  
