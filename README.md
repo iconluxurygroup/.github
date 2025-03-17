@@ -1,2 +1,0 @@
-# .github
-lets cook
