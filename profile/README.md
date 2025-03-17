@@ -24,20 +24,12 @@
   *Public* - MSRP loading utility, enhancing our data processing capabilities.
 - **[sam-site-parsing](https://github.com/nikwif/sam-site-parsing)** *(by nikwif)*  
   *Public* - Site parsing tool for luxury brands. Contributes to our parsing ecosystem.
-## Retail Scraping Tools
-- **[current-broken-RetailScraper_GetHTMLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetHTMLs)**  
-  *Public, HTML* - HTML scraping tool (in progress). Updated Jan 17, 2025.
-- **[current-broken-RetailScraper_GetProductData](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetProductData)**  
-  *Public, HTML* - Product data scraper (in progress). Updated Jan 20, 2025.
-- **[current-broken-RetailScraper_GetURLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetURLs)**  
-  *Public, Python* - URL gathering scraper (in progress). Updated Jan 14, 2025.
+## Retail Realtime
 - **[current-broken-RetailScraper_v4](https://github.com/iconluxurygroup/current-broken-RetailScraper_v4)**  
   *Public, Python* - Version 4 of a retail scraper (in progress). Updated Jan 14, 2025.
-- **[current-broken-selenium-scroll-isabelmarant](https://github.com/iconluxurygroup/current-broken-selenium-scroll-isabelmarant)**  
-  *Public, Python* - Selenium-based scrolling tool for Isabel Marant. Updated Jul 9, 2024.
+  ## Templates
 - **[template-static_page_parsing](https://github.com/iconluxurygroup/template-static_page_parsing)**  
   *Public, HTML* - Structure and utilities for parsing brand sites; fork for each new brand. Adjust `parse_product_blocks`. Updated May 30, 2024.
-
 ## Brand Archive Parsers
 - **[current-jimmy_choo_parser](https://github.com/iconluxurygroup/current-jimmy_choo_parser)**  
   *Public, HTML* - Parser for Jimmy Choo data. Updated May 30, 2024.
@@ -47,7 +39,15 @@
   *Private, Python* - MSRP puller for Off-White. Updated Oct 31, 2024.
 - **[current-site-parsing](https://github.com/iconluxurygroup/current-site-parsing)**  
   *Public, HTML* - General site parsing tool. Updated Aug 20, 2024.
-
+## Brand Archive Fetch
+- **[current-broken-RetailScraper_GetHTMLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetHTMLs)**  
+  *Public, HTML* - HTML scraping tool (in progress). Updated Jan 17, 2025.
+- **[current-broken-RetailScraper_GetProductData](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetProductData)**  
+  *Public, HTML* - Product data scraper (in progress). Updated Jan 20, 2025.
+  - **[current-broken-selenium-scroll-isabelmarant](https://github.com/iconluxurygroup/current-broken-selenium-scroll-isabelmarant)**  
+  *Public, Python* - Selenium-based scrolling tool for Isabel Marant. Updated Jul 9, 2024.
+- **[current-broken-RetailScraper_GetURLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetURLs)**  
+  *Public, Python* - URL gathering scraper (in progress). Updated Jan 14, 2025.
 ## Brand Archive Utilities
 - **[current-datawarehouse-form](https://github.com/iconluxurygroup/current-datawarehouse-form)**  
   *Public, Python* - Data warehouse form tool. Updated Aug 22, 2024.
