@@ -1,7 +1,3 @@
-# Icon Luxury Group Repositories
-
-Welcome to the Icon Luxury Group GitHub! Below is a curated list of our top repositories, featuring projects in web scraping, data parsing, serverless solutions, image services, and luxury brand tools. Most projects are built with Python, HTML, TypeScript, and other modern languages. Explore our work, including contributions from collaborators like `nikwif`!
-
 ## Active Development
 - **[current-agent-brand-html-fetch](https://github.com/iconluxurygroup/current-agent-brand-html-fetch)**  
   *Public, Python* - HTML fetching for brand data. Updated 2 hours ago.
