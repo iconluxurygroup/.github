@@ -1,7 +1,3 @@
-# Icon Luxury Group Repositories
-
-Welcome to the Icon Luxury Group GitHub! Below is a curated list of our top repositories, featuring projects in web scraping, data parsing, serverless solutions, image services, and luxury brand tools. Most projects are built with Python, HTML, TypeScript, and other modern languages. Explore our work, including contributions from collaborators like `nikwif`!
-
 ## Active Projects
 - **[codespace-router-proxy-google-cloud](https://github.com/iconluxurygroup/codespace-router-proxy-google-cloud)**  
   *Public, Python* - Proxy/routing solution for Google Cloud in a codespace. Updated 7 hours ago.
