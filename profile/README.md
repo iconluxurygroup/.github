@@ -21,7 +21,7 @@
   *Public, Jupyter Notebook* - MSRP loading utility. Updated Jul 16, 2024.
 - **[current-off_white_msrp_pull](https://github.com/iconluxurygroup/current-off_white_msrp_pull)**  
   *Private, Python* - MSRP puller for Off-White. Updated Oct 31, 2024.
-- **[current-site-parsing](https://github.com/iconluxurygroup/current-site-parsing)**  
+- **[current-test-site-parsing](https://github.com/iconluxurygroup/current-test-site-parsing)**  
   *Public, HTML* - General site parsing tool. Updated Aug 20, 2024.
 - **[current-test-brand-archive](https://github.com/iconluxurygroup/current-test-brand-archive)**  
   *Public, HTML* - Brand data archive test. Updated Jan 8, 2025.
@@ -49,13 +49,9 @@
   *Public* - Static data for frontend development. Updated last week.
 - **[site-iconluxury.group](https://github.com/iconluxurygroup/site-iconluxury.group)**  
   *Public, TypeScript* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
-    
-## Merge
-- **[sam-msrp-load-utility](https://github.com/nikwif/sam-msrp-load-utility)** *(by nikwif)*  
-  *Public* - MSRP loading utility, enhancing our data processing capabilities.
-- **[sam-site-parsing](https://github.com/nikwif/sam-site-parsing)** *(by nikwif)*  
-  *Public* - Site parsing tool for luxury brands. Contributes to our parsing ecosystem.
-
+## Image Distro Tool
+- **[service-distro-image](https://github.com/iconluxurygroup/service-distro-image)**  
+  *Public, Python* - Image distribution service. Updated 8 hours ago.
 ## Retail Realtime
 - **[current-broken-RetailScraper_v4](https://github.com/iconluxurygroup/current-broken-RetailScraper_v4)**  
   *Public, Python* - Version 4 of a retail scraper (in progress). Updated Jan 14, 2025.
@@ -123,6 +119,7 @@
   *Public, JavaScript* - Node.js/Express form or image distribution tool. Updated 2 weeks ago.
 - **[legacy-icon-product-api](https://github.com/iconluxurygroup/legacy-icon-product-api)**  
   *Public, Python* - Legacy product API. Updated May 7, 2024.
+- **[legacy-msrp-load-utility](https://github.com/iconluxurygroup/legacy-msrp-load-utility)**
 
 ## Luxuryverse 
 - **[luxuryverse](https://github.com/iconluxurygroup/luxuryverse)**  
