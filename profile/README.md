@@ -1,3 +1,42 @@
+## Current Sprint
+- **[current-agent-brand-html-fetch](https://github.com/iconluxurygroup/current-agent-brand-html-fetch)**  
+  *Public, Python* - HTML fetching for brand data. Updated 2 hours ago.
+- **[current-broken-RetailScraper_GetHTMLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetHTMLs)**  
+  *Public, HTML* - HTML scraping tool (in progress). Updated Jan 17, 2025.
+- **[current-broken-RetailScraper_GetProductData](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetProductData)**  
+  *Public, HTML* - Product data scraper (in progress). Updated Jan 20, 2025.
+- **[current-broken-RetailScraper_GetURLs](https://github.com/iconluxurygroup/current-broken-RetailScraper_GetURLs)**  
+  *Public, Python* - URL gathering scraper (in progress). Updated Jan 14, 2025.
+- **[current-broken-selenium-scroll-isabelmarant](https://github.com/iconluxurygroup/current-broken-selenium-scroll-isabelmarant)**  
+  *Public, Python* - Selenium-based scrolling tool for Isabel Marant. Updated Jul 9, 2024.
+- **[current-jimmy_choo_parser](https://github.com/iconluxurygroup/current-jimmy_choo_parser)**  
+  *Public, HTML* - Parser for Jimmy Choo data. Updated May 30, 2024.
+- **[current-mrsp-parsing-ferragamo_fix](https://github.com/iconluxurygroup/current-mrsp-parsing-ferragamo_fix)**  
+  *Public, Python* - Fixed parser for Ferragamo MSRP data. Updated Oct 29, 2024.
+- **[current-msrp-load-utility](https://github.com/iconluxurygroup/current-msrp-load-utility)**  
+  *Public, Jupyter Notebook* - MSRP loading utility. Updated Jul 16, 2024.
+- **[current-off_white_msrp_pull](https://github.com/iconluxurygroup/current-off_white_msrp_pull)**  
+  *Private, Python* - MSRP puller for Off-White. Updated Oct 31, 2024.
+- **[current-test-site-parsing](https://github.com/iconluxurygroup/current-test-site-parsing)**  
+  *Public, HTML* - General site parsing tool. Updated Aug 20, 2024.
+- **[current-test-brand-archive](https://github.com/iconluxurygroup/current-test-brand-archive)**  
+  *Public, HTML* - Brand data archive test. Updated Jan 8, 2025.
+- **[current-test-settings-API_Parser](https://github.com/iconluxurygroup/current-test-settings-API_Parser)**  
+  *Public* - API parser settings test. Updated Jan 7, 2025.
+- **[current-test-settings-HTML_Gather](https://github.com/iconluxurygroup/current-test-settings-HTML_Gather)**  
+  *Public* - HTML gathering settings test. Updated Jan 9, 2025.
+- **[current-test-URL_Gather_Step](https://github.com/iconluxurygroup/current-test-URL_Gather_Step)**  
+  *Public, Python* - URL gathering test step. Updated Jan 8, 2025.
+- **[codespace-router-proxy-google-cloud](https://github.com/iconluxurygroup/codespace-router-proxy-google-cloud)**  
+  *Public, Python* - Proxy/routing solution for Google Cloud in a codespace. Updated 7 hours ago.
+- **[codespace-serverless-no-js-digitalocean](https://github.com/iconluxurygroup/codespace-serverless-no-js-digitalocean)**  
+  *Private, Python* - Serverless setup on DigitalOcean, no JavaScript. Updated last month.
+- **[demo-repository](https://github.com/iconluxurygroup/demo-repository)**  
+  *Private, HTML* - A showcase of GitHub’s best features. Updated 3 days ago.
+- **[service-distro-image](https://github.com/iconluxurygroup/service-distro-image)**  
+  *Public, Python* - Image distribution service. Updated 8 hours ago.
+- **[site-iconluxury.group](https://github.com/iconluxurygroup/site-iconluxury.group)**  
+  *Public, TypeScript* - Source code for the Icon Luxury Group site. Updated 25 minutes ago.
 ## Active Development
 - **[current-agent-brand-html-fetch](https://github.com/iconluxurygroup/current-agent-brand-html-fetch)**  
   *Public, Python* - HTML fetching for brand data. Updated 2 hours ago.
